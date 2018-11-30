@@ -1,11 +1,6 @@
 import pickle
 import os as os
 
-os.DirEntry.path.__name__.display
-
-
-
-
 class members:
     def __init__(self, fname, lname, age, address, telNumber ):
         self.fname = fname
@@ -16,7 +11,7 @@ class members:
 
 
 ## Define Vars
-path="C:\\Users\\Windows 8.1\\Documents\\MEGAsync\\Projects\\Python\\"
+path=os.getcwd()+"\\"
 membersDB='members.db'
 member_addressDB='member_address.db'
 member_educ='member_educ.db'
