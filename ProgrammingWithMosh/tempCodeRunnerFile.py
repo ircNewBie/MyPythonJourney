@@ -1,0 +1,13 @@
+print(f"Member name: {member1.name}")
+# print(f"Principal: {member1.principal_amount}")
+# print(f"Withdrawals: {member1.withrawals}")
+# print(f"Amount Left: {member1.amount_left}")
+# print(f"Member for: {member1.months_as_member} months")
+# print("___________________________")
+# member1.total_money(3)
+
+# print(f"Member name: {member1.name}")
+# print(f"Principal: {member1.principal_amount}")
+# print(f"Withdrawals: {member1.withrawals}")
+# print(f"Amount Left: {member1.amount_left}")
+# print(f"Member for: {member1.months_as_member} months")
